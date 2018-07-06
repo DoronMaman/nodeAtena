@@ -1,0 +1,25 @@
+    {
+      "name": "Doron maman",
+      "adress": "yehud",
+      "email": "doron@gmail.com",
+      "role": "Web Developer",
+      "discription": "Doron Maman is a 35 year old single.I work for Webbics.I love playing soccer and basketball",
+      "freinds": [
+        {
+          "name": "Lior zano"
+        },
+        {
+          "name": "Emil elizarov"
+        }
+      ],
+      "post": [
+        {
+          "title": "Dash js",
+          "discription": "dash js is amazing method to stream video"
+        },
+        {
+          "title": "Angular 6",
+          "discription": "Angular is best framework to develop wesite i think is better from react and vue "
+        }
+      ]
+    }
